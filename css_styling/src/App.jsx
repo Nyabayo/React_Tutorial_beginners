@@ -1,7 +1,7 @@
 //How to add styles to components with css
-//1. external
-//2. modules
-//3. inline
+//1. external; great for global styles, small projects
+//2. modules; individual components
+//3. inline; small components with minimal styling
 
 import Button from "./Button/Button.jsx";
 
